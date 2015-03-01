@@ -58,6 +58,12 @@
     <Reference Include="System.EnterpriseServices" />
   </ItemGroup>
   <ItemGroup>
+    <Folder Include="App_Code\Accesos\" />
+    <Folder Include="App_Code\Clases\" />
+    <Folder Include="App_Code\Controladores\" />
+    <Folder Include="ControlesUsuario\" />
+    <Folder Include="Ficheros\" />
+    <Folder Include="Imagenes\" />
   </ItemGroup>
   <ItemGroup>
     <Import Include="Microsoft.VisualBasic" />
